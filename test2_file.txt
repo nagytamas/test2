@@ -3,3 +3,4 @@ teszt sor 2
 dev1 write new sor
 dev1 write 2. sor
 other master 1
+other master 2
