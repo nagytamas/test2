@@ -1,3 +1,4 @@
 teszt sor 1
 teszt sor 2
 dev1 write new sor
+dev1 write 2. sor
